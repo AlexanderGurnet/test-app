@@ -1,0 +1,7 @@
+export const authRoute = 'auth'
+export const profileRoute = 'profile'
+export const profilesRoute = 'profiles'
+export const imageRoute = 'image'
+export const loginRoute = 'login'
+export const signUpRoute = 'sign-up'
+export const userRoute = 'user'
